@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">身份证读卡</string>
+    <string name="sReadCard">单次读卡</string>
+    <string name="sScanDevice">循环读卡</string>    
+    <string name="nameLable">姓名</string>
+    <string name="textView">TextView</string>
+    <string name="sSingleRead">    单次读卡    </string>
+    <string name="sMultiRead">    循环读卡    </string>
+    <string name="sExit">    退出系统    </string>
+</resources>
